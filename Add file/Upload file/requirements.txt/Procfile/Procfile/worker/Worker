@@ -1,0 +1,18 @@
+bot.py 
+
+scraper.py 
+
+credentials.json 
+
+
+
+
+aiogram
+apscheduler
+gspread
+oauth2client
+
+
+
+
+python bot.py
